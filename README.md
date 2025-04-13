@@ -1,3 +1,1 @@
 # capstone-project
-
-salam kenal
